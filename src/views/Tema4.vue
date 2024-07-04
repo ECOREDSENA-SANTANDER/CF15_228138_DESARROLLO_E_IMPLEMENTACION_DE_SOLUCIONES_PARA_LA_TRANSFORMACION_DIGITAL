@@ -47,19 +47,19 @@
         img.img-a.img-t.mb-3(src="@/assets/curso/img/img900.svg" alt="tema2")
     
     .row.justify-content-center.align-items-top.mb-0(data-aos="fade-left")
-      .col-lg-3.col-12.mb-5
+      .col-lg-3.col-sm-6.mb-5
         .caja1.p-4
           h4.mb-3 Pentaho Server 
           p.mb-3 Núcleo de la plataforma.
-      .col-lg-3.col-12.mb-5
+      .col-lg-3.col-sm-6.mb-5
         .caja2.p-4
           h4.mb-3 Pentaho Report Designer
           p.mb-3 Para desarrollar reportes a través de consultas de diversos orígenes de datos.
-      .col-lg-3.col-12.mb-5
+      .col-lg-3.col-sm-6.mb-5
         .caja1.p-4
           h4.mb-3 Pentaho Schema Workbench
           p.mb-3 Para administrar y crear cubos OLAP. Usa motor de datos llamado Mondrian, también de código abierto.
-      .col-lg-3.col-12.mb-5
+      .col-lg-3.col-sm-6.mb-5
         .caja2.p-4
           h4.mb-3 Pentaho Data Integration Kettle
           p.mb-3 Es una de las herramientas más usadas de Pentaho, permite crear procesos ETL diseñando y alimentando los #[em Data warehouse].

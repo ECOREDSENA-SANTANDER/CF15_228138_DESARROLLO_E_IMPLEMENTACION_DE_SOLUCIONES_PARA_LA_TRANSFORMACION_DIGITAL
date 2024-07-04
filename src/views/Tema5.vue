@@ -18,19 +18,19 @@
             p.mb-4.rojo #[b Los tableros estadísticos se centran en diferentes aspectos, como:]
 
     .row.justify-content-center.align-items-top.mb-0(data-aos="fade-left")
-      .col-lg-3.col-12.mb-5
+      .col-lg-3.col-sm-6.mb-5
         .caja1.p-4
           h4.mb-3 Emplear recursos gráficos
           p.mb-3 Emplear recursos gráficos como elemento principal para representar datos y cifras.
-      .col-lg-3.col-12.mb-5
+      .col-lg-3.col-sm-6.mb-5
         .caja2.p-4
           h4.mb-3 Presentar aspectos del negocio
           p.mb-3 Presentar aspectos del negocio de manera general, pero que con la interactividad pueda llegar al detalle hasta que los datos lo permitan.
-      .col-lg-3.col-12.mb-5
+      .col-lg-3.col-sm-6.mb-5
         .caja1.p-4
           h4.mb-3 Crear diseños amigables
           p.mb-3 Por lo general todas las herramientas permiten crear diseños muy atractivos visualmente y amigables para la navegación e interacción con los datos.
-      .col-lg-3.col-12.mb-5
+      .col-lg-3.col-sm-6.mb-5
         .caja2.p-4
           h4.mb-3 Generar actualizaciones
           p.mb-3 Por lo generalestos recursos permiten actualizaciones de manera fácil incluyendo o quitando datos o elementos visuales según las necesidades y sugerencias de los clientes o líderes.
