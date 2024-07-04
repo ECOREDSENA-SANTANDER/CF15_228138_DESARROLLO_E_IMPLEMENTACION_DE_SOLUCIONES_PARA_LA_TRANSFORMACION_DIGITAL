@@ -7,7 +7,7 @@
         span 1
       h1 Extracción y minería de datos
 
-    .row.justify-content-center.align-items-center.mb-5(data-aos="fade-right")
+    .row.justify-content-center.align-items-center.mb-0(data-aos="zoom-in-left")
       .col-lg-12.col-12.mb-5
         .bloque-texto-g.col.color-acento-contenido.p-lg-5
           .bloque-texto-g__img.col(
@@ -16,14 +16,14 @@
           .bloque-texto-g__texto.p-lg-5.py-lg-6.p-2
             p A partir del contexto de la inteligencia de negocio, se debe comenzar por entender bien los requerimientos específicos de las soluciones analíticas; si bien toma muchos elementos del desarrollo del #[em software] e incluso, se toma como una rama del desarrollo de aplicaciones informáticas, hay ciertas especificidades en los requisitos para la toma de decisiones que se deben asumir.
             
-    .row.justify-content-center.align-items-center.mb-5
+    .row.justify-content-center.align-items-center.mb-4(data-aos="zoom-in-left")
       .col-sm-12.col-lg-10
-        .cajon.color-secundario.p-4.mb-5
+        .cajon.color-secundario.p-4
           p.mb-0 Los desarrollos de #[em software] se limitan a cumplir los requisitos de un área o un proceso determinado, como una isla en la empresa, donde no se integra información, ni formatos. Hoy en día, aún las empresas usan sistemas para cada área, por ejemplo, contabilidad, recursos humanos, área financiera, ventas, ofertas, #[em marketing], producción, etc.
       
-      p #[b En los modelos y metodologías de analítica, se debe tener presente:]
+    p.mb-4 #[b En los modelos y metodologías de analítica, se debe tener presente:]
 
-    .tarjeta.tarjeta--azul.py-5.p-4.mb-5
+    .tarjeta.tarjeta--azul.p-4.mb-5
       SlyderA(tipo="b").slider-a-custom(data-aos="zoom-in-left")
         .row.justify-content-center.p-4
           .col-lg-6.col-12.my-3
@@ -61,27 +61,28 @@
             img(alt="" src="@/assets/curso/img/img5.svg")
 
     p.mb-4 Una de las condiciones iniciales más importantes son las preguntas, es decir, qué se necesita saber del negocio, qué decisiones se planean tomar y qué insumos se requieren para la toma de estas decisiones.
-    strong En sí, se deben seleccionar varios elementos para el desarrollo de soluciones analíticas, tales como:    
+    strong.mb-5 En sí, se deben seleccionar varios elementos para el desarrollo de soluciones analíticas, tales como:    
 
+    
     .row.text-left-cus.mb-4
       .col-lg-4.my-3.text-left-cus
-        .bg191.bg-card.bg-img-1.d-flex.px-3.he-6-cus.flex-column
-          img.w-auto-cus.bg12.mx-3(src='@/assets/curso/img/img01.jpg', alt='')
-          .ml-1-custom 
-            p.ml-1-custom 
-            p.ml-1-custom #[b Metodología de desarrollo]<br><br>Se recomienda elegir una de las metodologías ágiles y registrar todos los requerimientos y planeación, según el rol que cumpla en el proyecto.
+        .bg11.bg-card.bg-img-1.d-flex.px-3.he-6-cus.flex-column.text-left-cus
+          img.w-auto-cus.bg12.px-3.py-1.mx-3.my-4(src='@/assets/curso/img/img01.svg' )
+          .wd-100
+            h4.ml-1-custom Metodología de desarrollo
+            p.ml-1-custom Se recomienda elegir una de las metodologías ágiles y registrar todos los requerimientos y planeación, según el rol que cumpla en el proyecto.
       .col-lg-4.my-3.text-left-cus
-        .bg191.bg-card.bg-img-1.d-flex.px-3.he-6-cus.flex-column
-          img.w-auto-cus.bg12.mx-3(src='@/assets/curso/img/img02.jpg', alt='')
-          .ml-1-custom 
-            p.ml-1-custom 
-            p.ml-1-custom.my-2 #[b Elegir herramienta de control y trazabilidad]<br><br>Para llevar control y trazabilidad de todo el desarrollo del proyecto en relación de equipos de trabajo, funciones, actividades hechas, en proceso y pendientes. Trello y Jira son buena opción, existiendo otras más.
+        .bg11.bg-card.bg-img-2.d-flex.px-3.he-6-cus.flex-column
+          img.w-auto-cus.bg12.px-3.py-1.mx-3.my-4(data-aos="zoom-in")(src='@/assets/curso/img/img02.svg' )
+          .wd-100
+            h4.ml-1-custom Elegir herramienta de control y trazabilidad
+            p.ml-1-custom Para llevar control y trazabilidad de todo el desarrollo del proyecto en relación de equipos de trabajo, funciones, actividades hechas, en proceso y pendientes. Trello y Jira son buena opción, existiendo otras más.
       .col-lg-4.my-3.text-left-cus
-        .bg191.bg-card.bg-img-1.d-flex.px-3.he-6-cus.flex-column
-          img.w-auto-cus.bg12.mx-3(src='@/assets/curso/img/img03.jpg', alt='')
-          .ml-1-custom 
-            p.ml-1-custom 
-            p.ml-1-custom #[b Herramientas de desarrollo]<br><br>Si bien se ha hablado mucho de infraestructura y herramientas, en este caso habrá que concentrarse en la capa de visualización de datos, según la herramienta elegida, dando ciertas pautas para seguir el modelo de diseño.
+        .bg11.bg-card.bg-img-3.d-flex.px-3.he-6-cus.flex-column
+          img.w-auto-cus.bg12.px-3.py-1.mx-3.my-4(data-aos="zoom-in")(src='@/assets/curso/img/img03.svg' )
+          .wd-100
+            h4.ml-1-custom Herramientas de desarrollo
+            p.ml-1-custom Si bien se ha hablado mucho de infraestructura y herramientas, en este caso habrá que concentrarse en la capa de visualización de datos, según la herramienta elegida, dando ciertas pautas para seguir el modelo de diseño.
 
 
 

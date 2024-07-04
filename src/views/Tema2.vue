@@ -7,21 +7,22 @@
         span 2
       h1 Aprendizaje automático #[em (machine learning)]
     
-    .row.justify-content-center.align-items-center.mb-5(data-aos="fade-left")
-      .col-lg-4.col-md-8.col-8
+    .row.justify-content-center.align-items-center.mb-4(data-aos="fade-left")
+      .col-lg-4.col-md-8.col-8.mb-3
         img.img-a.img-t(src="@/assets/curso/img/img10.png" alt="tema2")
-      .col-lg-8.col-md-12.col-12
-        p.mb-3.my-3 En la vida cotidiana de un hogar promedio actual, podría ocurrir fácilmente que un niño de escuela, mientras hace sus tareas, pregunte en voz alta: “¿Cuántos departamentos tiene Colombia?”. El padre, quien tradicionalmente debería saber la respuesta, recuerda que son 33 departamentos. Sin embargo, mientras se asegura de su respuesta, el dispositivo electrónico Alexa interrumpe primero, proporcionando la respuesta correcta de 32 departamentos.
-        .cajac.p-4.mb-4
-          .col-lg-7.my-0
+      .col-lg-8.col-md-12.col-12.mb-3
+        p.mb-3 En el diario vivir, en un hogar promedio actual, podría fácilmente suceder que el chico de la escuela, quien hace las tareas, pregunta en voz alta, ¿cuántos departamentos tiene Colombia?, a lo que el padre, quien tradicionalmente debería saberlo, tiene en su memoria que son 33 departamentos, pero mientras está en la mitad de su proceso cognitivo, asegurándose para responder, se oye primero el dispositivo electrónico Alexa, dando la respuesta de 32 departamentos.
+        .cajac.p-4.mb-2
+          .col-lg-7
           .row.d-flex.align-items-center.justify-content-center
             .col-lg-2
               img.img-a.img-t.d-none.d-lg-block(data-aos="zoom-in")(src='@/assets/curso/img/nueva.svg', alt='tema2')
-            .col-lg-10 Adicionalmente, amplía esta información con algunos datos complementarios. En este instante, la inteligencia artificial, es tomada como fuente de información rápida y confiable. Es así como los padres y profesores, que han sido tradicionalmente las fuentes de conocimiento, van siendo desplazados en este sentido (para adquirir conocimientos), y empiezan otros retos y roles igual de importantes que deben asumir.
+            .col-lg-10 
+              p.mb-0 Adicionalmente, amplía esta información con algunos datos complementarios. En este instante, la inteligencia artificial, es tomada como fuente de información rápida y confiable. Es así como los padres y profesores, que han sido tradicionalmente las fuentes de conocimiento, van siendo desplazados en este sentido (para adquirir conocimientos), y empiezan otros retos y roles igual de importantes que deben asumir.
     
-    p.mb-5 #[b En relación con el aprendizaje automático, es importante tener en cuenta aspectos como:]
+    p.mb-4 #[b En relación con el aprendizaje automático, es importante tener en cuenta aspectos como:]
     
-    .tarjeta.tarjeta--azul.py-5.p-4.mb-0
+    .tarjeta.tarjeta--azul.p-4.mb-0
       SlyderA(tipo="b").slider-a-custom(data-aos="zoom-in-left")
         .row.justify-content-center.p-4
           .col-lg-6.col-12.my-3
@@ -47,7 +48,7 @@
         .row.justify-content-center.p-4
           .col-lg-6.col-12.my-3
             h4.mb-4 La IA como representación de la inteligencia humana
-            p.mb-3 La IA está fundamentada en una serie de algoritmos y métodos inspirados en procesos propios del cerebro, es decir, la programación se basa en entradas de datos. El software se programa para realizar procesos y asociar datos en tablas y organizar, sumar o dar reportes. Es un asunto más mecánico y de ejecutar pasos establecidos.
+            p.mb-3 La IA está fundamentada en una serie de algoritmos y métodos inspirados en procesos propios del cerebro, es decir, la programación se basa en entradas de datos. El #[em software] se programa para realizar procesos y asociar datos en tablas y organizar, sumar o dar reportes. Es un asunto más mecánico y de ejecutar pasos establecidos.
           .col-lg-6.col-8 
             img(alt="" src="@/assets/curso/img/img040.png")
 
@@ -71,7 +72,7 @@
 
     p.mb-4 #[em Machine Learning] (ML) es el área de las ciencias computacionales que hace parte de la IA, su enfoque es que las computadoras, en vez de ser programadas paso a paso, aprendan a partir de los datos. Cada solución de ML es específica para cada necesidad, tal y como se tiene el enfoque con la programación convencional. Los profesionales de ML están dedicados al desarrollo de algoritmos genéricos que pueden extraer patrones de diferentes tipos de datos.
     
-    .row.justify-content-center.align-items-center.mb-4(data-aos="fade-right")
+    .row.justify-content-center.align-items-center.mb-0(data-aos="fade-right")
       .col-lg-12.col-12.mb-5
         .bloque-texto-g.col.color-acento-contenido.p-lg-5
           .bloque-texto-g__img.col(
@@ -81,7 +82,7 @@
             p.mb-5 El ML enfocado a la ciencia de datos apunta a desarrollar procesos específicos como la identificación de la fuente de datos, desechar información inválida o no útil, limpiar, normalizar, relacionar, datos sesgados, etc. 
 
     
-    .row.d-flex.align-items-center.justify-content-center.mb-4
+    .row.d-flex.align-items-center.justify-content-center.mb-3
       .col-sm-12.col-lg-10
         .cajaa.p-4.mb-4
           .col-lg-7.my-0
@@ -90,45 +91,43 @@
               img.img-a.img-t.d-none.d-lg-block(data-aos="zoom-in")(src='@/assets/curso/img/nueva1.svg', alt='tema2')
             .col-lg-10 #[b Nota importante.] Todas estas tareas podrían encontrar solución eficiente en la selección de soluciones de #[em machine learning,] cuya aplicación resulte apropiada, la elección del algoritmo más adecuado, el ajuste de los parámetros del método elegido, el análisis de los resultados, la identificación de comportamientos incorrectos, la vuelta a procesos anteriores con el fin de cambiar lo que resulte necesario para mejorar los resultados. (Bobadilla, 2020).
     
-    p.mb-4 Si bien la aplicación de #[em Business Intelligence] (BI) es una manera interesante para el conocimiento de las organizaciones y otras bondades, la implementación de ML es ir más allá. Preste atención a los aspectos clave que se muestran a continuación:
+    p.mb-5 Si bien la aplicación de #[em Business Intelligence] (BI) es una manera interesante para el conocimiento de las organizaciones y otras bondades, la implementación de ML es ir más allá. Preste atención a los aspectos clave que se muestran a continuación:
     
     .row(data-aos="zoom-in")
-      .col-lg-7.mb-4.my-4
-        AcordionA.activo.color-acento-botones.mas(tipo="a" clase-tarjeta="tarjeta tarjeta--gris")
+      .col-lg-7.mb-0
+        AcordionA.activo.color-acento-botones(tipo="a" clase-tarjeta="tarjeta tarjeta--gris")
           .row(titulo="Orientación del <em>Machine Learning</em>")
             .col-12.ps-5
-                  p.mb-0 Se orienta a mejorar predicciones cada vez más precisas, obtener información más profunda de los datos, reducir sobrecarga de tareas y mejorar las experiencias de clientes, por ejemplo, a través de #[em Chatbots] que vayan aprendiendo de un humano a cómo responder según las situaciones.
+                  p.mb-0.mx-2 Se orienta a mejorar predicciones cada vez más precisas, obtener información más profunda de los datos, reducir sobrecarga de tareas y mejorar las experiencias de clientes, por ejemplo, a través de #[em Chatbots] que vayan aprendiendo de un humano a cómo responder según las situaciones.
 
           .row(titulo="Diferentes tipos de aprendizaje")
             .col-12.ps-5
-                  p.mb-0 Varían en función de si se conoce o no la respuesta que se busca, del tipo de datos analizados, del entorno de los datos en cuestión y del tipo de análisis realizado (estadísticas, comparaciones, reconocimiento de imágenes, etc.).
+                  p.mb-0.mx-2 Varían en función de si se conoce o no la respuesta que se busca, del tipo de datos analizados, del entorno de los datos en cuestión y del tipo de análisis realizado (estadísticas, comparaciones, reconocimiento de imágenes, etc.).
                     
           .row(titulo="Algoritmos de aprendizaje")
             .col-12.ps-5
-                  p.mb-0 Los algoritmos de aprendizaje y la potencia de cálculo requerida también difieren en función de la tarea que se realiza.
+                  p.mb-0.mx-2 Los algoritmos de aprendizaje y la potencia de cálculo requerida también difieren en función de la tarea que se realiza.
 
           .row(titulo="Calidad de aprendizaje")
             .col-12.ps-5
-                  p.mb-0 Tal calidad depende del número de ejemplos relevantes que el #[em software] puede analizar (cuantos más ejemplos, más precisión se tendrá en el análisis de datos). También dependen de la cantidad de características que detallan los ejemplos (cuanto más sencillos y precisos, más rápido y acertado será el análisis: tamaño, peso, cantidad, velocidad, rangos, etc.).
+                  p.mb-0.mx-2 Tal calidad depende del número de ejemplos relevantes que el #[em software] puede analizar (cuantos más ejemplos, más precisión se tendrá en el análisis de datos). También dependen de la cantidad de características que detallan los ejemplos (cuanto más sencillos y precisos, más rápido y acertado será el análisis: tamaño, peso, cantidad, velocidad, rangos, etc.).
 
           .row(titulo="Calidad de los datos")
             .col-12.ps-5
-                  p.mb-0 Si faltan muchos datos o se presentan falencias en las dimensiones de la calidad de datos, el análisis se verá afectado.
+                  p.mb-0.mx-2 Si faltan muchos datos o se presentan falencias en las dimensiones de la calidad de datos, el análisis se verá afectado.
           
           .row(titulo="Cumplimiento máximo de criterios")
             .col-12.ps-5
-                  p.mb-0 El ML de predicción será más preciso y el análisis resultará más ajustado a la realidad. Así que, una vez que se hayan definido los objetivos y elementos de aprendizaje automático, y que las bases de datos estén en óptimas condiciones, podrá empezar a sacar el máximo partido al #[em machine learning.]
+                  p.mb-0.mx-2 El ML de predicción será más preciso y el análisis resultará más ajustado a la realidad. Así que, una vez que se hayan definido los objetivos y elementos de aprendizaje automático, y que las bases de datos estén en óptimas condiciones, podrá empezar a sacar el máximo partido al #[em machine learning.]
 
           .row(titulo="Principio del algoritmo")
             .col-12.ps-5
-                  p.mb-0 El tipo de aprendizaje está dado según el principio del algoritmo, sin decir que otro tipo de aprendizaje no es usado, este aprendizaje es el más implementado en la gestión de datos y otras aplicaciones y ha permitido gran ampliación en implementación de Inteligencia Artificial en las organizaciones y la vida cotidiana.
+                  p.mb-0.mx-2 El tipo de aprendizaje está dado según el principio del algoritmo, sin decir que otro tipo de aprendizaje no es usado, este aprendizaje es el más implementado en la gestión de datos y otras aplicaciones y ha permitido gran ampliación en implementación de Inteligencia Artificial en las organizaciones y la vida cotidiana.
 
           .row(titulo="Fundamento del aprendizaje supervisado")
             .col-12.ps-5
-                  p.mb-0 Se fundamenta en el descubrimiento o el aprendizaje en la relación existente entre unas variables o datos de entrada y unas variables de salida, es decir, el aprendizaje surge de mostrarle a los algoritmos cuál es el resultado que se desea obtener para un determinado valor.
+                  p.mb-0.mx-2 Se fundamenta en el descubrimiento o el aprendizaje en la relación existente entre unas variables o datos de entrada y unas variables de salida, es decir, el aprendizaje surge de mostrarle a los algoritmos cuál es el resultado que se desea obtener para un determinado valor.
 
-        
-                                                
       .col-lg-5(data-aos="fade-left")
         figure.d-lg-block.d-none
           img.img-a.img-t.my-5.down(src='@/assets/curso/img/img5.png', alt='imagen decorativa') 
@@ -137,101 +136,101 @@
     #t_2_2.titulo-segundo.color-acento-contenido
       h2 2.2 Aprendizaje no supervisado
     
-    .row.justify-content-center.align-items-center.mb-3(data-aos="fade-left")
+    .row.justify-content-center.align-items-center.mb-2(data-aos="fade-left")
       .col-lg-4.col-8
         img.img-a.img-t.mb-3(src="@/assets/curso/img/img6.png" alt="")
       .col-lg-8.col-12
-        p.mb-4 Este paradigma de aprendizaje toma como base, únicamente, los datos de entrada, sin explicarle al sistema qué resultado es el que se espera obtener. Podría ser un poco difícil de concebir, porque si no hay una referencia previa, ¿de qué manera podrían los sistemas aprender?
+        p.mb-4 Este paradigma de aprendizaje toma como base, únicamente, los datos de entrada, sin explicarle al sistema qué resultado es el que se espera obtener. Podría ser un poco difícil de concebir, porque si no hay una referencia previa, ¿de qué manera podrían los sistemas aprender?.
         .cajad.p-4.mb-2.my-4
           p.mb-3 Este concepto es menos usado, pues sostiene mayores retos a la ciencia y a los algoritmos, donde a partir de un parámetro, el sistema deberá tratar de descubrir qué resultado o resultados posibles daría ese dato de entrada.
 
-    p.mb-5 #[b Estas son algunas generalidades que se deben tener en cuenta, respecto del aprendizaje no supervisado:]
+    p.mb-4 #[b Estas son algunas generalidades que se deben tener en cuenta, respecto del aprendizaje no supervisado:]
 
     SlyderF(columnas="col-lg-6 col-xl-4")
       .tarjeta.color-acento-botones.p-4
-        .row.justify-content.mb-3
+        .row.justify-content-left.mb-3
           .col-8
-            img.img-a.img-t(src='@/assets/curso/img/ej1.svg' alt='AvatarTop')
+            img.img-a.img-t.left(src='@/assets/curso/img/ej1.svg' alt='AvatarTop')
         p Tiene una ventaja, porque el entrenamiento en aprendizaje supervisado implicaría miles de horas, humanos enseñando y altos costos, debido a que para que un sistema esté bien entrenado requiere al menos 100 mil ejemplos, esto es una tarea larga y costosa.
 
       .tarjeta.color-acento-botones.p-4
         .row.justify-content-start.mb-3
           .col-8
-            img.img-a.img-t(src='@/assets/curso/img/ej2.svg' alt='AvatarTop')
+            img.img-a.img-t.left(src='@/assets/curso/img/ej2.svg' alt='AvatarTop')
         p Por su parte, el aprendizaje no supervisado solo requiere de los datos de entrada, dar unos pocos parámetros de lo que se quiere y dejar todo a la máquina.
       .tarjeta.color-acento-botones.p-4
         .row.justify-content.mb-3
           .col-8
-            img.img-a.img-t(src='@/assets/curso/img/ej3.svg' alt='AvatarTop')
+            img.img-a.img-t.left(src='@/assets/curso/img/ej3.svg' alt='AvatarTop')
         p La desventaja es que requiere mucho procesamiento, puntos generales que pueda asociar a lo que se le parezca, y avance tecnológico con el fin que la máquina vislumbre y descubra el dato de salida.
 
       .tarjeta.color-acento-botones.p-4
         .row.justify-content.mb-3
           .col-8
-            img.img-a.img-t(src='@/assets/curso/img/ej4.svg' alt='AvatarTop')
+            img.img-a.img-t.left(src='@/assets/curso/img/ej4.svg' alt='AvatarTop')
         p Si bien, las técnicas ML más usadas están basadas en referencias de salidas, el aprendizaje no supervisado será el futuro, porque de cierta manera los sistemas usarán estas referencias y gran capacidad computacional para empezar a asociar.
 
       .tarjeta.color-acento-botones.p-4
         .row.justify-content.mb-3
           .col-8
-            img.img-a.img-t(src='@/assets/curso/img/ej5.svg' alt='AvatarTop')
+            img.img-a.img-t.left(src='@/assets/curso/img/ej5.svg' alt='AvatarTop')
         p Lograr que una máquina tenga sentido común es un objetivo muy difícil, sin embargo, los algoritmos actuales se van acercando un poco, por ejemplo, hay palabras que si bien es la misma para dos cosas o significados diferentes (palabras polisémicas), para los humanos es fácil según el contexto, pero para una máquina es difícil definir estas cosas.
 
     separador
     #t_2_3.titulo-segundo.color-acento-contenido
       h2 2.3 Algoritmos y modelos matemáticos
 
-    .row.justify-content-center.align-items-center.mb-4(data-aos="fade-left")
-      .col-lg-5.col-md-8.col-8.mb-2
-        img.img-a.img-t.mb-4(src="@/assets/curso/img/img111.svg" alt="tema2")
+    .row.justify-content-center.align-items-center.mb-2(data-aos="fade-left")
+      .col-lg-5.col-md-8.col-8
+        img.img-a.img-t(src="@/assets/curso/img/img111.svg" alt="tema2")
       .col-lg-7.col-md-12.col-12
-        .cajaverde.p-5.mb-5
+        .cajaverde.p-5.mb-2
           p.mb-4 Los métodos matemáticos y algorítmicos empleados en la Inteligencia Artificial, pueden variar según los desarrollares. Aunque existen otros, los más comunes o típicos para 
             strong.rojo aprendizaje supervisado 
             | son las Regresiones lineales y logísticas, Máquinas de vectores de soporte, árbol de decisiones y K-Media
     
     
-    .mb-5.d-flex
+    .mb-4.d-flex
       .d-flex.flex-wrap.align-items-center.pe-4.bg-img-blue
         h3.col.px-4.mb-0.text-white(data-aos="fade-right") Regresiones lineales y logísticas
         img.clase2.col-lg.d-none.d-lg-flex(src='@/assets/curso/img/clase2.svg' data-aos="fade-left")
     
     p.mb-4 Estos algoritmos tienen un comportamiento basado en el historial de los datos, por ejemplo, se requiere predecir o asignar correctamente el valor de un inmueble; teniendo como base datos históricos, se tendría una gráfica como esta:
     
-    .row.justify-content-center.mb-5
+    .row.justify-content-center.mb-4
       .col-lg-7.col-md-10.col-12
         .titulo-sexto.color-acento-contenido.mb-4(data-aos="fade-right")
           h5 Figura 1.
-          |  Figura 1. Muestra una dispersión de datos base utilizada para algoritmos de regresiones lineales. En el eje vertical se representa el precio, mientras que en el eje horizontal se representa la variable M2. Los puntos dispersos en el gráfico indican una relación entre estas dos variables, sugiriendo una tendencia general en la que a medida que ( M_2 \ aumenta, el precio también tiende a aumentar. 
-        img.img-a.img-t.mb-3(src="@/assets/curso/img/fig1.svg" alt="tema2")
+          | Datos base para los algoritmos regresiones lineales
+        img.img-a.img-t.mb-3(src="@/assets/curso/img/fig1.svg" alt="Figura 1. Muestra una dispersión de datos base utilizada para algoritmos de regresiones lineales. En el eje vertical se representa el precio, mientras que en el eje horizontal se representa la variable M2. Los puntos dispersos en el gráfico indican una relación entre estas dos variables, sugiriendo una tendencia general en la que a medida que ( M_2 \ aumenta, el precio también tiende a aumentar.")
         
     p.mb-4 Luego, a partir de una la regresión lineal, se calcula la línea que abarca los valores y se establece con mejor exactitud el valor del inmueble.
     p.mb-4 De esa manera, cuando una propiedad tiene ciertos metros cuadrados específicos, la salida que ofrece la máquina será un precio que coincida con la regresión lineal, como se expresa en la siguiente gráfica:
     
-    .row.justify-content-center.mb-5
+    .row.justify-content-center.mb-4
       .col-lg-7.col-md-10.col-12
         .titulo-sexto.color-acento-contenido.mb-4(data-aos="fade-right")
           h5 Figura 2.
-          span Muestra una línea de regresión derivada de valores conocidos en un gráfico de dispersión. El gráfico presenta la relación entre el precio (eje vertical) y la variable M2 (eje horizontal). Los puntos dispersos representan datos observados, mientras que la línea de regresión indica la tendencia general de cómo el precio varía en función de M2, sugiriendo una correlación positiva entre estas dos variables. 
-        img.img-a.img-t.mb-3(src="@/assets/curso/img/fig2.svg" alt="tema2")
+          span Línea a partir de valores conocidos
+        img.img-a.img-t.mb-3(src="@/assets/curso/img/fig2.svg" alt="Muestra una línea de regresión derivada de valores conocidos en un gráfico de dispersión. El gráfico presenta la relación entre el precio (eje vertical) y la variable M2 (eje horizontal). Los puntos dispersos representan datos observados, mientras que la línea de regresión indica la tendencia general de cómo el precio varía en función de M2, sugiriendo una correlación positiva entre estas dos variables.")
 
-    p.mb-5 Con estas técnicas se pueden establecer grupos, por ejemplo, es posible definir si un inmueble es costoso o no lo es, con base en los datos y sus grupos.
+    p.mb-4 Con estas técnicas se pueden establecer grupos, por ejemplo, es posible definir si un inmueble es costoso o no lo es, con base en los datos y sus grupos.
     
-    .mb-5.d-flex
+    .mb-4.d-flex
       .d-flex.flex-wrap.align-items-center.pe-4.bg-img-blue
-        h3.col.px-4.mb-0.text-white(data-aos="fade-right") K-MEANS cluestering o K-media de agrupamiento
+        h3.col.px-4.mb-0.text-white(data-aos="fade-right") #[em K-MEANS cluestering o K-media] de agrupamiento
         img.clase3.col-lg.d-none.d-lg-flex(src='@/assets/curso/img/clase2.svg' data-aos="fade-left")
 
     p.mb-0 En el caso anterior, se tenían valores históricos, sin embargo, ¿qué tal si se presenta el caso de que los datos no están categorizados y no hay un historial?
     p.mb-4 Se deberá usar uno de los algoritmos o métodos no supervisados para que la máquina aprenda a identificar patrones y arroje respuestas.
     p.mb-4 El algoritmo por agrupación usa como base centroides o puntos de datos base, que procura detectar patrones similares y de esa manera identifica grupos, como se presenta a continuación.
     
-    .row.justify-content-center.mb-5
+    .row.justify-content-center.mb-4
       .col-lg-7.col-md-10.col-12
         .titulo-sexto.color-acento-contenido.mb-4(data-aos="fade-right")
           h5 Figura 3.
-          span Ilustra un gráfico de agrupamiento #[em (clustering)] donde los datos se han dividido en dos grupos distintos. En el gráfico, se observa la distribución de los datos en dos clusters, representados por colores diferentes: un grupo en verde y otro en naranja. Estos grupos indican la segmentación de los datos según similitudes, con el eje vertical y el eje horizontal representando variables no especificadas. 
-        img.img-a.img-t.mb-3(src="@/assets/curso/img/fig3.svg" alt="tema2")
+          span Agrupando (#[em clustering])
+        img.img-a.img-t.mb-3(src="@/assets/curso/img/fig3.svg" alt="Ilustra un gráfico de agrupamiento #[em (clustering)] donde los datos se han dividido en dos grupos distintos. En el gráfico, se observa la distribución de los datos en dos clusters, representados por colores diferentes: un grupo en verde y otro en naranja. Estos grupos indican la segmentación de los datos según similitudes, con el eje vertical y el eje horizontal representando variables no especificadas.")
 
     p.mb-4 En un primer momento, los datos no están clasificados, sin embargo, el algoritmo determina similitud según la distancia entre los mismos (en estos datos se nota que hay dos grupos por su cercanía).
     p.mb-4 Para empezar a usar este tipo de algoritmos, se debe elegir el número de #[em clusters], representado por K, Luego, aleatoriamente, se asignan centroides y se calcula, uno a uno, la cercanía de los datos al centroide, como se presenta en la siguiente figura.
@@ -240,24 +239,24 @@
       .col-lg-12.col-md-10.col-12
         .titulo-sexto.color-acento-contenido.mb-4(data-aos="fade-right")
           h5 Figura 4.
-          span Presenta un análisis de #[em clusters] y sus centroides. El gráfico de la izquierda muestra tres clusters iniciales con sus respectivos centroides representados en colores diferentes (rojo, azul y verde), cada uno dentro de una línea punteada que delimita su grupo. En el gráfico de la derecha, los datos se reorganizan en tres #[em clusters] bien definidos (cada uno representado por un color diferente: rojo, verde y azul) después de aplicar un algoritmo de #[em clustering], mostrando la convergencia de los datos hacia sus centroides. Ambos gráficos ilustran el proceso de agrupamiento y la importancia de los centroides en la formación de #[em clusters] coherentes.
+          span #[em Clusters] y centroides
         .row.justify-content-center.mb-4
           .col-lg-6.col-md-10.col-12
-            img.img-a.img-t.mb-3(src="@/assets/curso/img/fig4.svg" alt="tema2")
+            img.img-a.img-t.mb-3(src="@/assets/curso/img/fig4.svg" alt="Presenta un análisis de clusters y sus centroides. El gráfico de la izquierda muestra tres clusters iniciales con sus respectivos centroides representados en colores diferentes (rojo, azul y verde), cada uno dentro de una línea punteada que delimita su grupo. En el gráfico de la derecha, los datos se reorganizan en tres #[em clusters] bien definidos (cada uno representado por un color diferente: rojo, verde y azul) después de aplicar un algoritmo de clustering, mostrando la convergencia de los datos hacia sus centroides. Ambos gráficos ilustran el proceso de agrupamiento y la importancia de los centroides en la formación de clusters coherentes.")
           .col-lg-6.col-md-10.col-12
-            img.img-a.img-t.mb-3(src="@/assets/curso/img/fig4.1.svg" alt="tema2")
+            img.img-a.img-t.mb-3(src="@/assets/curso/img/fig4.1.svg" alt="Presenta un análisis de clusters y sus centroides. El gráfico de la izquierda muestra tres clusters iniciales con sus respectivos centroides representados en colores diferentes (rojo, azul y verde), cada uno dentro de una línea punteada que delimita su grupo. En el gráfico de la derecha, los datos se reorganizan en tres #[em clusters] bien definidos (cada uno representado por un color diferente: rojo, verde y azul) después de aplicar un algoritmo de clustering, mostrando la convergencia de los datos hacia sus centroides. Ambos gráficos ilustran el proceso de agrupamiento y la importancia de los centroides en la formación de clusters coherentes.")
 
     p.mb-4 El algoritmo calcula estas distancias usando la #[b Distancia Euclidiana.] Se trata de una variación del teorema de Pitágoras y es una de las maneras más fáciles para calcular distancia, a partir de las posiciones de dos objetos en un plano cartesiano, como se presenta a continuación.
     
     .row.justify-content-center.mb-5
-      .col-lg-7.col-md-10.col-12
+      .col-lg-6.col-md-10.col-12
         .titulo-sexto.color-acento-contenido.mb-4(data-aos="fade-right")
           h5 Figura 5.
-          span Ilustra el concepto de distancia euclidiana entre dos puntos en un plano cartesiano. Los puntos están representados por las coordenadas (x1,y1).  La distancia entre estos dos puntos se muestra como la hipotenusa de un triángulo rectángulo, donde los catetos son las diferencias en las coordenadas. Este diagrama visualiza cómo se calcula la distancia euclidiana utilizando el teorema de Pitágoras.
-        img.img-a.img-t(src="@/assets/curso/img/fig5.svg" alt="tema2")
+          span Distancia euclidiana
+        img.img-a.img-t(src="@/assets/curso/img/fig5.svg" alt="Ilustra el concepto de distancia euclidiana entre dos puntos en un plano cartesiano. Los puntos están representados por las coordenadas (x1,y1).  La distancia entre estos dos puntos se muestra como la hipotenusa de un triángulo rectángulo, donde los catetos son las diferencias en las coordenadas. Este diagrama visualiza cómo se calcula la distancia euclidiana utilizando el teorema de Pitágoras.")
 
     p.mb-4 Esta función se repite las veces que sea necesario o se hayan parametrizado, para que el algoritmo autónomamente determine qué dato estaría en cuál  #[em cluster] o qué clasificación.
-    p.mb-0 Esto es solo un ejemplo de métodos o algoritmos que emplea el #[em machine learning,] pero hay muchos más tanto para aprendizaje supervisado como no supervisado
+    p.mb-0 Esto es solo un ejemplo de métodos o algoritmos que emplea el #[em machine learning,] pero hay muchos más tanto para aprendizaje supervisado como no supervisado.
     
     separador
     #t_2_4.titulo-segundo.color-acento-contenido
@@ -276,7 +275,7 @@
         h3.col.px-4.mb-0.text-white(data-aos="fade-right") Predictores como funciones de herramientas
         img.clase4.col-lg.d-none.d-lg-flex(src='@/assets/curso/img/clase2.svg' data-aos="fade-left")
     
-    .row.justify-content-center.align-items-center.mb-5(data-aos="fade-left")
+    .row.justify-content-center.align-items-center(data-aos="fade-left")
       .col-lg-8.col-12.mb-5.my-2
         p.mb-3.my-3 Un ejemplo de predictores usados por todos, ha sido la función autocompletar de Google en sus búsquedas y los teclados de celular donde, al escribir una palabra o parte de ella, el sistema procura autocompletar lo que se desea escribir, ahorrando tiempo y disminuyendo errores de digitación de manera ostensible. Esto se hace a partir de unas métricas y del aprendizaje que la máquina detectó por las tendencias propias del usuario o tendencias de búsqueda masiva localizada o mundial.
         .cajac.p-4.mb-4
@@ -286,7 +285,7 @@
 
     p.mb-4 #[b En relación con los predictores, tenga en cuenta algunas generalidades como las que enuncian a continuación:]
     
-    .tarjeta.tarjeta--azul.py-5.p-4.mb-5
+    .tarjeta.tarjeta--azul.p-4
       SlyderA(tipo="b").slider-a-custom(data-aos="zoom-in-left")
         .row.justify-content-center.p-4
           .col-lg-6.col-12.my-3

@@ -8,16 +8,16 @@
       h1 Herramientas de analítica de datos y visualización
     
     .row.justify-content-center.align-items-center.mb-4(data-aos="fade-left")
-      .col-lg-4.col-md-8.col-8.mb-5
-        img.mb-lg-0.mb-3(src="@/assets/curso/img/img123.svg" alt="tema2")
-      .col-lg-8.col-md-12.col-12.mb-5
+      .col-lg-4.col-md-8.col-8.mb-3
+        img.mb-lg-0(src="@/assets/curso/img/img123.svg" alt="tema2")
+      .col-lg-8.col-md-12.col-12.mb-3
         p.mb-3.my-3 Por practicidad y funcionalidad, las organizaciones deciden usar un ecosistema integrado que abarque todas las funcionalidades y extras de la inteligencia de negocio, desde el contexto de gestión de datos hasta el modelamiento y visualización de reportes. En este caso, la orientación estará enfocada a las herramientas propias para la visualización de datos.
-        .cajac.p-4.mb-4
+        .cajac.p-4.mb-0
           p.my-3 Existen muchas opciones para las soluciones BI, las más populares son Tableau de la marca Salesforce, Power BI de Microsoft y otras como Qlik Sense de la empresa Qlik.
 
     p.mb-4 #[b Sobre las herramientas de analítica de datos y visualización, tenga en cuenta los siguientes ítems:]
     
-    .tarjeta.tarjeta--azul.py-5.p-4.mb-5
+    .tarjeta.tarjeta--azul.p-4.mb-5
       SlyderA(tipo="b").slider-a-custom(data-aos="zoom-in-left")
         .row.justify-content-center.p-4
           .col-lg-6.col-12.my-3
