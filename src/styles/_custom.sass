@@ -1,48 +1,25 @@
+.banner-principal .tarjeta 
+  img, svg 
+    display: block;
+    border-style: hidden;
+  figure, picture, img, svg 
+    margin: 0;
+    width: 254px;
+    max-width: 55%;
+
+  
+  
 .banner-principal-decorativo
   &-1
     animation: float1 3.5s ease-in-out infinite alternate
     position: absolute
-    top: 58%
-    right: 106%
-    width: 220px
-    height: 220px
+    top: 40%
+    right: 50%
   &-2
     animation: float1 2.8s ease-in-out infinite alternate
     position: absolute
-    top: 38%
-    right: -13%
-    width: 220px
-    height: 220px
-
-.banner-principal-decorativo-2
-  width: 48%
-.banner-principal-decorativo-1
-  width: 48%
-.banner-principal__img
-  width: 22%
-.banner-principal__row 
-    justify-content: space-around;
-.banner-principal .tarjeta 
-    background-color: #083142;
-    background-size: cover;
-    background-position: 50%;
-
-.banner-principal .row 
-    justify-content: space-around;
-    --bs-gutter-x: 1.5rem;
-    --bs-gutter-y: 0;
-    display: flex;
-    flex-wrap: wrap;
-    margin-top: calc(var(--bs-gutter-y)* -1);
-    margin-right: calc(var(--bs-gutter-x) / -2);
-    margin-left: calc(var(--bs-gutter-x) / -2);
-
-@media (min-width: 576px) 
-    .ps-sm-5 
-        padding-left: 1rem !important;
-    
-
-
+    top: 51%
+    right: 30%
 
 
 @keyframes float1
@@ -262,67 +239,3 @@
     margin-top: 8rem !important;
     margin-bottom: 0rem !important;
 
-.bg11
-  background-color: #FFE5CF
-  border-radius: 15px
-  &:hover
-    background-color: #FFB476
-.bg11:hover .bg12 
-  background-color: #FFF1E5;
-
-.bg-card
-  background-position: center
-  background-size: cover !important
-  background-repeat: no-repeat
-  &:hover
-    background-position: center
-    background-size: cover !important
-    background-repeat: no-repeat
-
-.bg-img-1
-  background: url('../assets/curso/img/171.svg')
-  &:hover
-    background: url('../assets/curso/img/170.svg')
-
-.bg-img-2
-  background: url('../assets/curso/img/172.svg')
-  &:hover
-    background: url('../assets/curso/img/173.svg')
-
-.bg-img-3
-  background: url('../assets/curso/img/174.svg')
-  &:hover
-    background: url('../assets/curso/img/175.svg')
-
-.he-6-cus 
-    height: 320px;
-
-.w-auto-cus
-  width: fit-content;
-
-.bg12
-  background-color: #FFB476
-  border-radius: 6px
-
-.ml-1-custom
-  margin-left: 1rem !important;
-
-.fa-chevron-right:before 
-  content: url('../assets/curso/img/177.svg')
-  
-.fa-chevron-left:before 
-  content: url('../assets/curso/img/176.svg')
-  
-.left
-  display: inline
-
-
-.slyder-a__btn--sigt, .slyder-a__btn--atrs 
-  background-image: url("../assets/componentes/arrow-wt.svg")!important
-
-.slyder-a__tipo-b .slyder-a__btn--sigt 
-    transform: rotate(359deg);
-
-.slyder-a__tipo-b .slyder-a__btn--atrs 
-    transform: rotate(180deg);
-    left: 15px;
