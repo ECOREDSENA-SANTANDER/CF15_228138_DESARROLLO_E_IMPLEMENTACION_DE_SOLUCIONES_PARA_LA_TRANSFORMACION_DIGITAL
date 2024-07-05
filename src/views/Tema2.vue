@@ -187,7 +187,7 @@
         .cajaverde.p-5.mb-2
           p.mb-4 Los métodos matemáticos y algorítmicos empleados en la Inteligencia Artificial, pueden variar según los desarrollares. Aunque existen otros, los más comunes o típicos para 
             strong.rojo aprendizaje supervisado 
-            | son las Regresiones lineales y logísticas, Máquinas de vectores de soporte, árbol de decisiones y K-Media
+            | son las Regresiones lineales y logísticas, Máquinas de vectores de soporte, árbol de decisiones y K-Media.
     
     
     .mb-4.d-flex
