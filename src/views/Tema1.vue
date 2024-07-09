@@ -5,7 +5,7 @@
     .titulo-principal.color-acento-botones
       .titulo-principal__numero
         span 1
-      h1 Extracción y minería de datos
+      h1 Modelos y metodologías de analítica
 
     .row.justify-content-center.align-items-center.mb-0(data-aos="zoom-in-left")
       .col-lg-12.col-12.mb-5
