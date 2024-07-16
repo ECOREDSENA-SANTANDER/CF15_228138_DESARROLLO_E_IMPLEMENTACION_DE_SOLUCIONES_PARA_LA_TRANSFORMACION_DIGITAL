@@ -144,31 +144,29 @@ export default {
     {
       tema: 'Algoritmos y modelos matemáticos ',
       referencia:
-        'Data Silvestre. (2021). Distancia Euclidiana en Python | Métricas y Distancias #1 [video]. YouTube. https://youtu.be/vklKtK5oCfg',
+        'Data Silvestre. (2021). Distancia Euclidiana en Python | Métricas y Distancias #1 [video].',
       tipo: 'Video ',
       link: 'https://youtu.be/vklKtK5oCfg',
     },
     {
       tema: 'Gestión de datos masivos',
       referencia:
-        'The QA Testing Channel. (2017). Comandos SQL Básicos en Base de Datos - En 1 minuto [video]. YouTube. https://www.youtube.com/watch?v=YuqqGaPLrjY&ab_channel=TheQATestingChannel',
+        'The QA Testing Channel. (2017). Comandos SQL Básicos en Base de Datos.',
       tipo: 'Video ',
-      descarga:
-        'https://www.youtube.com/watch?v=YuqqGaPLrjY&ab_channel=TheQATestingChannel',
+      link: 'https://youtu.be/S93ln0XFPuY',
     },
     {
       tema: 'Gestión de datos masivos ',
       referencia:
-        'Learning BI. (2017). Introducción Pentaho Data Integration [video]. YouTube. https://youtu.be/o7If1a-gkyI',
+        'Learning BI. (2017). Introducción Pentaho Data Integration [video].',
       tipo: 'Video ',
-      descarga: 'https://youtu.be/o7If1a-gkyI ',
+      link: 'https://www.youtube.com/watch?v=o7If1a-gkyI',
     },
     {
       tema: 'Gestión de datos masivos ',
-      referencia:
-        'Contreras, P. (2018). Business intelligence con Excel y Power BI. [Conjunto de datos]. Sistema de bibliotecas SENA. https://login.bdigital.sena.edu.co/login?qurl=https://www.ebooks7-24.com%2f%3fil%3d10579',
-      tipo: 'Libro  ',
-      descarga: 'https://www-ebooks7-24-com.bdigital.sena.edu.co/?il=10579',
+      referencia: 'Be Intellligence. Business intelligence',
+      tipo: 'video',
+      link: 'https://youtu.be/Pmdps2kK_5M',
     },
   ],
   glosario: [
