@@ -7,16 +7,17 @@
         span 5
       h1 Tableros estadísticos, informes y resultados de visualización
     
-    .row.justify-content-center.align-items-center.mb-2(data-aos="fade-right")
-      .col-lg-12.col-12.mb-5
-        .bloque-texto-g.col.color-acento-contenido.p-lg-5
-          .bloque-texto-g__img.col(
+    .row.justify-content-center.mb-4
+      .col-lg-12
+        .bloque-texto-g.fondo-b.p-3.p-sm-4.p-md-5
+          .bloque-texto-g__img(
             :style="{'background-image': `url(${require('@/assets/curso/img/img405.svg')})`}"
           )
-          .bloque-texto-g__texto.p-lg-5.py-lg-6.p-5
+          .bloque-texto-g__texto.p-5.mt-3.mb-3
             p.mb-5 Los tableros estadísticos, también llamados cuadros de mandos o dashboard, permiten mostrar información consolidad a alto nivel. Los dashboard son las maneras más populares en BI de presentar datos, debido a que permite la compresión de manera sencilla los hechos del negocio y las situaciones presentadas.<br><br>
             p.mb-4.rojo #[b Los tableros estadísticos se centran en diferentes aspectos, como:]
 
+            
     .row.justify-content-center.align-items-top.mb-0(data-aos="fade-left")
       .col-lg-3.col-sm-6.mb-5
         .caja1.p-4
@@ -102,27 +103,27 @@
     p.mb-4 Lo anterior, dando respuesta a que las organizaciones y los usuarios, cada vez más, tienen más habilidades digitales y dominio de herramientas analíticas así no sean usuarios informáticos propiamente dicho.
     p.mb-4 #[b En relación con los informes y resultados de visualización, tenga presente:]
     
-    .tarjeta.tarjeta--azul.p-4
+    .tarjeta.tarjeta--azul.p-3
       SlyderA(tipo="b").slider-a-custom(data-aos="zoom-in-left")
         .row.justify-content-center.p-4
           .col-lg-6.col-12.my-3
             h4.mb-4 Excel
             p.mb-3 La herramienta Excel, puede integrarse con bases de datos y otras herramientas de bases de datos que traigan las dimensiones para que los usuarios de Excel puedan realizar sus propios informes, imprimirlos o presentarlos, o simplemente para tomar decisiones con contexto. Estos OLAP se emplean con el mismo principio de tablas dinámicas o pivotes de datos.
-          .col-lg-6.col-8  
+          .col-lg-6.col-12  
             img(alt="tema1" src="@/assets/curso/img/imag10.svg")
 
         .row.justify-content-center.p-4
           .col-lg-6.col-12.my-3
             h4.mb-4 Los informes
             p.mb-3 Hablando propiamente de informes, es un paso más allá de lo que son los reportes analíticos. Las tendencias de estos informes son, incorporar mayores capacidades visuales, proporcionando mayor libertad a los responsables de área o procesos para la creación y consumo para incluir en los informes ampliados estos recursos en archivos PDF, o presentaciones Power Point o similares.
-          .col-lg-6.col-8
+          .col-lg-6.col-12
             img(alt="tema1" src="@/assets/curso/img/img115.svg")
 
         .row.justify-content-center.p-4
           .col-lg-6.col-12.my-3
-            h4.mb-4 Reporting
-            p.mb-3 Las herramientas de informes o reporting, permiten responder preguntas como ¿qué pasó?, debido a que es una de las primeras fases de la analítica descriptiva y que según las herramientas, se pueden generar o exportar cuando incluyen un motor de generación de informes.
-          .col-lg-6.col-8
+            h4.mb-4 #[em Reporting]
+            p.mb-3 Las herramientas de informes o #[em reporting], permiten responder preguntas como ¿qué pasó?, debido a que es una de las primeras fases de la analítica descriptiva y que según las herramientas, se pueden generar o exportar cuando incluyen un motor de generación de informes.
+          .col-lg-6.col-12
             img(alt="" src="@/assets/curso/img/img125.svg")
 
 

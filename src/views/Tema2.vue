@@ -22,48 +22,48 @@
     
     p.mb-4 #[b En relación con el aprendizaje automático, es importante tener en cuenta aspectos como:]
     
-    .tarjeta.tarjeta--azul.p-4.mb-0
+    .tarjeta.tarjeta--azul.p-3.mb-0
       SlyderA(tipo="b").slider-a-custom(data-aos="zoom-in-left")
         .row.justify-content-center.p-4
           .col-lg-6.col-12.my-3
             h4.mb-4 Avance y actualización permanentes
             p.mb-3 La Inteligencia Artificial seguirá avanzando, las organizaciones y personas las seguirán asumiendo y consumiendo en su diario vivir, debido a que se encuentra en celulares, carros, compras, gestiones de gobierno, app, bancos, medios de comunicación, etc.
-          .col-lg-6.col-8 
+          .col-lg-6.col-12 
             img(alt="tema1" src="@/assets/curso/img/img010.png")
 
         .row.justify-content-center.p-4
           .col-lg-6.col-12.my-3
             h4.mb-4 Apropiación y adaptación de las personas
             p.mb-3 La mayoría de las empresas y personas, en medio de la inmersión de diario vivir, ocasionan aumento de las habilidades digitales en los individuos, muchas veces de manera natural, sin enterarnos, esto nos hace más exigentes para la solución de problemas, gestión de procesos, así como conocedores de la tecnología.
-          .col-lg-6.col-8 
+          .col-lg-6.col-12
             img(alt="tema1" src="@/assets/curso/img/img020.png")
 
         .row.justify-content-center.p-4
           .col-lg-6.col-12.my-3
             h4.mb-4 Mejoras industriales
             p.mb-3 Los avances empresariales bajo el contexto de la cuarta revolución industrial, se van entendiendo mejor, aceptando y asumiéndolos en sus organizaciones. Algo similar debió pasar cuando llegó la electricidad al mundo, algunas personas y organizaciones no lo veían necesario sino complementario, como piensan actualmente, de la tecnología, algunas personas. No obstante, desde hace muchas décadas, la electricidad no es un elemento que se debata en un hogar o una organización.
-          .col-lg-6.col-8 
+          .col-lg-6.col-12
             img(alt="" src="@/assets/curso/img/img030.png")
 
         .row.justify-content-center.p-4
           .col-lg-6.col-12.my-3
             h4.mb-4 La IA como representación de la inteligencia humana
             p.mb-3 La IA está fundamentada en una serie de algoritmos y métodos inspirados en procesos propios del cerebro, es decir, la programación se basa en entradas de datos. El #[em software] se programa para realizar procesos y asociar datos en tablas y organizar, sumar o dar reportes. Es un asunto más mecánico y de ejecutar pasos establecidos.
-          .col-lg-6.col-8 
+          .col-lg-6.col-12
             img(alt="" src="@/assets/curso/img/img040.png")
 
         .row.justify-content-center.p-4
           .col-lg-6.col-12.my-3
             h4.mb-4 Inteligencia con poder de decisión, aprendizaje y predicción
             p.mb-3 En cierta manera, los cálculos y guardar datos también son características del cerebro, sin embargo, existen otras donde la programación ha avanzado ostensiblemente en los últimos años. Si el algoritmo tiene poder de decisión, aprendizaje, predicción, usa lenguaje natural humano y automatiza tareas, es un componente de IA.
-          .col-lg-6.col-8 
+          .col-lg-6.col-12 
             img(alt="" src="@/assets/curso/img/img050.png")
 
         .row.justify-content-center.p-4
           .col-lg-6.col-12.my-3
             h4.mb-4 Frecuencia y utilidad
             p.mb-3 La IA es una rama de las ciencias informáticas, si bien, la tecnología en analítica de datos no se enfoca al desarrollo de redes neuronales o aprendizajes de máquina, es interesante saber de qué se trata, porque, aunque no se programen estos sistemas, es una realidad el uso frecuente y útil de herramientas sofisticadas a las cuales conectamos nuestros datos, y nos pueden dar conocimientos importantes a partir de la IA.
-          .col-lg-6.col-8 
+          .col-lg-6.col-12 
             img(alt="" src="@/assets/curso/img/img060.png")
 
     separador
@@ -72,15 +72,14 @@
 
     p.mb-4 #[em Machine Learning] (ML) es el área de las ciencias computacionales que hace parte de la IA, su enfoque es que las computadoras, en vez de ser programadas paso a paso, aprendan a partir de los datos. Cada solución de ML es específica para cada necesidad, tal y como se tiene el enfoque con la programación convencional. Los profesionales de ML están dedicados al desarrollo de algoritmos genéricos que pueden extraer patrones de diferentes tipos de datos.
     
-    .row.justify-content-center.align-items-center.mb-0(data-aos="fade-right")
-      .col-lg-12.col-12.mb-5
-        .bloque-texto-g.col.color-acento-contenido.p-lg-5
-          .bloque-texto-g__img.col(
+    .row.justify-content-center.mb-4
+      .col-lg-12
+        .bloque-texto-g.fondo-b.p-3.p-sm-4.p-md-5
+          .bloque-texto-g__img(
             :style="{'background-image': `url(${require('@/assets/curso/img/img4.png')})`}"
           )
-          .bloque-texto-g__texto.tx.p-lg-5.py-lg-6.p-5
-            p.mb-5 El ML enfocado a la ciencia de datos apunta a desarrollar procesos específicos como la identificación de la fuente de datos, desechar información inválida o no útil, limpiar, normalizar, relacionar, datos sesgados, etc. 
-
+          .bloque-texto-g__texto.p-5.mt-2.mb-2
+            p.mb-0 El ML enfocado a la ciencia de datos apunta a desarrollar procesos específicos como la identificación de la fuente de datos, desechar información inválida o no útil, limpiar, normalizar, relacionar, datos sesgados, etc. 
     
     .row.d-flex.align-items-center.justify-content-center.mb-3
       .col-sm-12.col-lg-10
@@ -285,48 +284,48 @@
 
     p.mb-4 #[b En relación con los predictores, tenga en cuenta algunas generalidades como las que enuncian a continuación:]
     
-    .tarjeta.tarjeta--azul.p-4
+    .tarjeta.tarjeta--azul.p-3
       SlyderA(tipo="b").slider-a-custom(data-aos="zoom-in-left")
         .row.justify-content-center.p-4
           .col-lg-6.col-12.my-3
             h4.mb-4 Resultado de una acción
             p.mb-3 La predicción no es un asunto nuevo; en su mínima expresión se podría resumir en el resultado de una acción, es decir, no se necesita ser gurú para saber que si no se realizan ventas, el negocio se viene a pique, sin embargo, la IA es mucho más que esto y se responsabiliza de elementos más complejos.
-          .col-lg-6.col-8 
+          .col-lg-6.col-12 
             img(alt="tema1" src="@/assets/curso/img/img10.svg")
 
         .row.justify-content-center.p-4
           .col-lg-6.col-12.my-3
             h4.mb-4 Análisis predictivo
             p.mb-3 El objetivo de este análisis es la estimación de eventos futuros a partir de datos históricos o, incluso, descubrir fenómenos presentes que podrían desencadenar consecuencias más adelante, como por ejemplo, la no satisfacción de clientes.
-          .col-lg-6.col-8 
+          .col-lg-6.col-12 
             img(alt="tema1" src="@/assets/curso/img/img11.svg")
 
         .row.justify-content-center.p-4
           .col-lg-6.col-12.my-3
             h4.mb-4 Construcción de algoritmos de predicción
             p.mb-3 Construir algoritmos o funciones de programación básicos no suele ser difícil, por ejemplo, en una ferretería se podría implementar un campo calculado que sugiera pedidos para comprar a proveedores, basado en la cantidad de productos vendidos en los últimos tres meses. Si bien, este es un componente que podría funcionar, no se considera exacto.
-          .col-lg-6.col-8 
+          .col-lg-6.col-12 
             img(alt="" src="@/assets/curso/img/img12.svg")
 
         .row.justify-content-center.p-4
           .col-lg-6.col-12.my-3
             h4.mb-4 Datos entregados a modelos ML
-            p.mb-3 Si estos datos se entregan a modelos ML de un proveedor de este servicio y se define el objetivo con claridad (número de unidades a comprar a proveedores), a medida que pasa el tiempo las predicciones de ventas y las decisiones de compra para el stock de inventarios serán cada vez más exactas, porque la IA tendrá muchísimas más variables para definir la decisión de compra. Además de las ventas, podría tener en cuenta el mes, según comportamiento del mismo mes de los años anteriores, el precio de divisas, incluso si hay épocas de lluvia o no, etc.
-          .col-lg-6.col-8 
+            p.mb-3 Si estos datos se entregan a modelos ML de un proveedor de este servicio y se define el objetivo con claridad (número de unidades a comprar a proveedores), a medida que pasa el tiempo las predicciones de ventas y las decisiones de compra para el #[em stock] de inventarios serán cada vez más exactas, porque la IA tendrá muchísimas más variables para definir la decisión de compra. Además de las ventas, podría tener en cuenta el mes, según comportamiento del mismo mes de los años anteriores, el precio de divisas, incluso si hay épocas de lluvia o no, etc.
+          .col-lg-6.col-12 
             img(alt="" src="@/assets/curso/img/img13.svg")
 
         .row.justify-content-center.p-4
           .col-lg-6.col-12.my-3
             h4.mb-4 Datos históricos
             p.mb-3 Para la construcción de estos modelos, una vez desarrollado el algoritmo predictivo (y reglas de negocio que apliquen), y configurado con claridad las metas y objetivos en el entorno del proveedor de IA, es necesario disponer de un conjunto de datos históricos. Por lo general, se tienen dos conjuntos: uno de datos de entrenamiento y otro de prueba.
-          .col-lg-6.col-8 
+          .col-lg-6.col-12 
             img(alt="" src="@/assets/curso/img/img14.svg")
 
         .row.justify-content-center.p-4
           .col-lg-6.col-12.my-3
             h4.mb-4 Comprobación de exactitud
             p.mb-3 Al modelo se le pasan como entrada, los datos de entrenamiento para calibrar la predicción y, posteriormente, los datos de prueba. Después, se compara el resultado de la predicción con los valores reales (históricos) para comprobar su exactitud.
-          .col-lg-6.col-8 
+          .col-lg-6.col-12
             img(alt="" src="@/assets/curso/img/img15.svg")
 
 

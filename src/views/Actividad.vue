@@ -11,11 +11,11 @@
       .col-12.col-md-8.col-lg-9
         .titulo-segundo
           h2 Analizando y visualizando datos
-        p.mb-4 #[b Fortalecer los conceptos de la analítica y visualización de datos, y el desarrollo de soluciones visuales de inteligencia de negocio.] 
+        p.mb-4 Fortalecer los conceptos de la analítica y visualización de datos, y el desarrollo de soluciones visuales de inteligencia de negocio.
         .tarjeta.actividad.p-3
           .row.justify-content-around.align-items-center            
             .col-sm.mb-3.mb-sm-0
-              p.fw-bold.mb-0 COMPLETAR ESPACIOS
+              p.fw-bold.mb-0 Completar espacios
             .col-auto
               a.boton.boton--b(:href="obtenerLink('/actividades/story.html')" target="_blank")
                 span Realizar
