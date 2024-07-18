@@ -34,7 +34,7 @@
       .col-lg-3.col-sm-6.mb-5
         .caja2.p-4
           h4.mb-3 Generar actualizaciones
-          p.mb-3 Por lo generalestos recursos permiten actualizaciones de manera fácil incluyendo o quitando datos o elementos visuales según las necesidades y sugerencias de los clientes o líderes.
+          p.mb-3 Por lo general estos recursos permiten actualizaciones de manera fácil incluyendo o quitando datos o elementos visuales según las necesidades y sugerencias de los clientes o líderes.
     
     .mb-4.d-flex
       .d-flex.flex-wrap.align-items-center.pe-4.bg-img-blue

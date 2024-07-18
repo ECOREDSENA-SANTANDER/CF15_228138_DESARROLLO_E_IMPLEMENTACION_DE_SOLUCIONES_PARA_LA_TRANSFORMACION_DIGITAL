@@ -11,7 +11,7 @@
       .col-lg-4.col-md-8.col-8.mb-3
         img.img-a.img-t(src="@/assets/curso/img/img10.png" alt="tema2")
       .col-lg-8.col-md-12.col-12.mb-3
-        p.mb-3 En el diario vivir, en un hogar promedio actual, podría fácilmente suceder que el chico de la escuela, quien hace las tareas, pregunta en voz alta, ¿cuántos departamentos tiene Colombia?, a lo que el padre, quien tradicionalmente debería saberlo, tiene en su memoria que son 33 departamentos, pero mientras está en la mitad de su proceso cognitivo, asegurándose para responder, se oye primero el dispositivo electrónico Alexa, dando la respuesta de 32 departamentos.
+        p.mb-3 En la vida cotidiana de un hogar promedio actual, podría ocurrir fácilmente que un niño de escuela, mientras hace sus tareas, pregunte en voz alta: "¿Cuántos departamentos tiene Colombia?". El padre, quien tradicionalmente debería saber la respuesta, recuerda que son 33 departamentos. Sin embargo, mientras se asegura de su respuesta, el dispositivo electrónico Alexa interrumpe primero, proporcionando la respuesta correcta de 32 departamentos .
         .cajac.p-4.mb-2
           .col-lg-7
           .row.d-flex.align-items-center.justify-content-center
@@ -220,7 +220,7 @@
         h3.col.px-4.mb-0.text-white(data-aos="fade-right") #[em K-MEANS cluestering o K-media] de agrupamiento
         img.clase3.col-lg.d-none.d-lg-flex(src='@/assets/curso/img/clase2.svg' data-aos="fade-left")
 
-    p.mb-0 En el caso anterior, se tenían valores históricos, sin embargo, ¿qué tal si se presenta el caso de que los datos no están categorizados y no hay un historial?
+    p.mb-0 En el caso anterior, se tenían valores históricos, sin embargo, ¿qué tal si se presenta el caso de que los datos no están categorizados y no hay un historial?.
     p.mb-4 Se deberá usar uno de los algoritmos o métodos no supervisados para que la máquina aprenda a identificar patrones y arroje respuestas.
     p.mb-4 El algoritmo por agrupación usa como base centroides o puntos de datos base, que procura detectar patrones similares y de esa manera identifica grupos, como se presenta a continuación.
     

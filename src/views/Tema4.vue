@@ -19,7 +19,7 @@
         h3.col.px-4.mb-0.text-white(data-aos="fade-right") Herramientas de desarrollo
         img.clase5.col-lg.d-none.d-lg-flex(src='@/assets/curso/img/clase2.svg' data-aos="fade-left")
     
-    p.mb-4 Las soluciones #[em Open Source] es una sugerencia, al menos, para el proceso de aprendizaje, porque muchas organizaciones se alinean bajo ecosistemas de pago tales como Microsoft con #[b SQL Server Integration Services] (SSIS), #[b Qlik analityc] u otras herramientas comerciales.
+    p.mb-4 Las soluciones #[em Open Source] es una sugerencia, al menos, para el proceso de aprendizaje, porque muchas organizaciones se alinean bajo ecosistemas de pago tales como Microsoft con #[em SQL Server Integration Services (SSIS), Qlik analityc] u otras herramientas comerciales.
     p.mb-4 Las herramientas #[em Open Source] cumplen con el principio de ser abiertas, es decir, que pertenecen o se matriculan a una comunidad que tiene acceso libre para su uso y participación del código fuente. Si bien son escasos los soportes técnicos, existen foros donde la comunidad misma ofrece su ayuda en temas o situaciones específicas.
     
     .row.d-flex.align-items-center.justify-content-center.mb-4

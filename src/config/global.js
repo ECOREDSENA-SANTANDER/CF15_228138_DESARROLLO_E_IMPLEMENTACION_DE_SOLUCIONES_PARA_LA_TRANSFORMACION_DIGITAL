@@ -153,7 +153,7 @@ export default {
       referencia:
         'The QA Testing Channel. (2017). Comandos SQL Básicos en Base de Datos.',
       tipo: 'Video ',
-      link: 'https://youtu.be/S93ln0XFPuY',
+      link: 'https://youtu.be/Yc1-Rg2whNU',
     },
     {
       tema: 'Gestión de datos masivos ',
@@ -214,20 +214,21 @@ export default {
   referencias: [
     {
       referencia:
-        'Agrawal, A., Joshua, G., & Avi, G. (2019). Máquinas predictivas: la sencilla economía de la inteligencia artificial [Conjunto de datos]. Sistema de bibliotecas SENA.',
+        'Browner. M. (2020). Máquinas predictivas: la sencilla economía de la inteligencia artificial.',
       link:
-        ' https://elibro-net.bdigital.sena.edu.co/es/lc/senavirtual/titulos/122310',
+        'https://dokumen.pub/maquinas-predictivas-prediction-machines-spanish-edition-la-sencilla-economia-de-la-inteligencia-artificial-1nbsped-8494949381-9788494949388.html',
     },
     {
       referencia:
-        'Bobadilla, J. (2020). Machine Learning y Deep Learning. [Conjunto de datos]. Sistema de bibliotecas SENA.',
-      link: 'https://www-ebooks7-24-com.bdigital.sena.edu.co/?il=10277',
+        'Zambelli. R (2024). ¿Qué es el Machine Learning y cómo usarlo en la gestión industrial?.',
+      link:
+        'https://blog-es.checklistfacil.com/machine-learning/?utm_term=&utm_campaign=LATAM-ES-PAID-CF-GOOGLE-SEARCH-LM_NOVOS_LEADS-DSA-BLOG&utm_source=google&utm_medium=cpc&hsa_acc=6707140990&hsa_cam=21096577828&hsa_grp=160250856136&hsa_ad=693261475572&hsa_src=g&hsa_tgt=dsa-2284541207217&hsa_kw=&hsa_mt=&hsa_net=adwords&hsa_ver=3&gad_source=1&gclid=CjwKCAjwqMO0BhA8EiwAFTLgIAqb8LevzY8hmeCkm9H9GcC_TwoE49Fnr6dqoYkrvwRMnj4720jy7BoChYAQAvD_BwE',
     },
     {
       referencia:
-        'Curto Díaz, J. (2016). Introducción al business intelligence. [Conjunto de datos]. Sistema de bibliotecas SENA.',
+        'Curto Díaz, J. (2016). Introducción al business intelligence.',
       link:
-        'https://elibro-net.bdigital.sena.edu.co/es/lc/senavirtual/titulos/101030',
+        'https://cursos.yura.website/wp-content/uploads/2020/03/Introduccion_al_Business_Intelligence.pdf',
     },
     {
       referencia:
@@ -285,6 +286,11 @@ export default {
         {
           nombre: 'Sandra Paola Morales Páez',
           cargo: 'Evaluadora Instruccional',
+          centro: 'Regional Santander - Centro Agroturístico',
+        },
+        {
+          nombre: 'Lucenith Pinilla Moreno',
+          cargo: 'Actividad Didáctica',
           centro: 'Regional Santander - Centro Agroturístico',
         },
       ],
