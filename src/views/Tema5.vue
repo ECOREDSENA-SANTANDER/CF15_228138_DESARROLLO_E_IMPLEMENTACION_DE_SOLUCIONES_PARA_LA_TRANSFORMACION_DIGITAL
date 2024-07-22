@@ -14,7 +14,7 @@
             :style="{'background-image': `url(${require('@/assets/curso/img/img405.svg')})`}"
           )
           .bloque-texto-g__texto.p-5.mt-3.mb-3
-            p.mb-5 Los tableros estadísticos, también llamados cuadros de mandos o dashboard, permiten mostrar información consolidad a alto nivel. Los dashboard son las maneras más populares en BI de presentar datos, debido a que permite la compresión de manera sencilla los hechos del negocio y las situaciones presentadas.<br><br>
+            p.mb-5 Los tableros estadísticos, también llamados cuadros de mandos o #[em dashboard], permiten mostrar información consolidad a alto nivel. Los dashboard son las maneras más populares en BI de presentar datos, debido a que permite la compresión de manera sencilla los hechos del negocio y las situaciones presentadas.<br><br>
             p.mb-4.rojo #[b Los tableros estadísticos se centran en diferentes aspectos, como:]
 
             
@@ -41,7 +41,7 @@
         h3.col.px-4.mb-0.text-white(data-aos="fade-right") Tableros estadísticos como herramienta para monitorizar el negocio
         img.clase8.col-lg.d-none.d-lg-flex(src='@/assets/curso/img/clase2.svg' data-aos="fade-left")
     
-    p.mb-4 Un #[b #[em dashboard]], permite visualizar de manera ágil y actualizada los procesos de negocio, pues muestra información clave de fácil entendimiento, los #[em dashboard] modernos tienen un “refresh de datos” casi en tiempo real, lo que les permite a las personas del nivel de decisión o coordinación tener el negocio y sus procesos a la mano con el detalle que requiera, permitiendo tomar con más velocidad las decisiones diarias.
+    p.mb-4 Un #[b #[em dashboard]], permite visualizar de manera ágil y actualizada los procesos de negocio, pues muestra información clave de fácil entendimiento, los #[em dashboard] modernos tienen un “#[em refresh] de datos” casi en tiempo real, lo que les permite a las personas del nivel de decisión o coordinación tener el negocio y sus procesos a la mano con el detalle que requiera, permitiendo tomar con más velocidad las decisiones diarias.
     p.mb-4 #[b Los tableros de mando contienen los siguientes elementos:]
     
     .row.justify-content-center.mb-5
@@ -122,7 +122,7 @@
         .row.justify-content-center.p-4
           .col-lg-6.col-12.my-3
             h4.mb-4 #[em Reporting]
-            p.mb-3 Las herramientas de informes o #[em reporting], permiten responder preguntas como ¿qué pasó?, debido a que es una de las primeras fases de la analítica descriptiva y que según las herramientas, se pueden generar o exportar cuando incluyen un motor de generación de informes.
+            p.mb-3 Las herramientas de informes o #[em reporting], permiten responder preguntas como ¿qué pasó?, debido a que es una de las primeras fases de la analítica descriptiva y que, según las herramientas, se pueden generar o exportar cuando incluyen un motor de generación de informes.
           .col-lg-6.col-12
             img(alt="" src="@/assets/curso/img/img125.svg")
 

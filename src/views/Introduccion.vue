@@ -13,7 +13,7 @@
         img.mb-3(src="@/assets/curso/img/img1.svg" alt="")
       .col-lg-7.col-12.my-3
         .cajon.color-secundario.p-4.my-4
-          p.mb-0 Se da la bienvenida al estudio del componente formativo
+          p.mb-0 Se da la bienvenida al estudio del componente formativo 
             strong.rojo “Analítica de datos y visualización”
             | . Para comenzar satisfactoriamente esta experiencia de aprendizaje, se le invita a explorar el video que se muestra a continuación. 
             strong.rojo ¡Adelante!

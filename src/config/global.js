@@ -183,7 +183,7 @@ export default {
     {
       termino: '<em>Chatbots</em>',
       significado:
-        'chats operados por robots o chats inteligentes que interactúan con personas o clientes sin necesidad de intervención humana. ',
+        '<em>chats</em> operados por robots o <em>chats</em> inteligentes que interactúan con personas o clientes sin necesidad de intervención humana. ',
     },
     {
       termino: '<em>Datasets</em>',
@@ -191,14 +191,14 @@ export default {
         'conjunto de datos guardados en un sistema, ya sea en una o varias bases de datos. Por lo general son datos estructurados y están disponibles para gestión y uso que se desee dar según los objetivos del negocio. ',
     },
     {
-      termino: '<em>AWS</em>',
+      termino: 'AWS',
       significado:
-        '<em>Amazon Web Service,</em> plataforma de computación o servicios en la nube, cuenta con múltiples servicios entre los cuales muchas herramientas tienen grandes componentes de inteligencia artificial y gestión de datos. ',
+        'Amazon Web Service, plataforma de computación o servicios en la nube, cuenta con múltiples servicios entre los cuales muchas herramientas tienen grandes componentes de inteligencia artificial y gestión de datos. ',
     },
     {
       termino: '<em>Insigth</em>',
       significado:
-        'en términos de informática y marketing se refiere a las verdades (a veces relativa según tiempo y condiciones), que generan los datos o los comportamientos de consumo. ',
+        'en términos de informática y <em>marketing</em> se refiere a las verdades (a veces relativa según tiempo y condiciones), que generan los datos o los comportamientos de consumo. ',
     },
     {
       termino: 'Minería de datos',
@@ -325,7 +325,7 @@ export default {
         },
         {
           nombre: 'Erika Fernanda Mejía Pinzón',
-          cargo: 'Validación de Contenidos Accesibles',
+          cargo: 'Evaluadora Para Contenidos Inclusivos y Accesibles',
           centro: 'Regional Santander - Centro Agroturístico',
         },
       ],

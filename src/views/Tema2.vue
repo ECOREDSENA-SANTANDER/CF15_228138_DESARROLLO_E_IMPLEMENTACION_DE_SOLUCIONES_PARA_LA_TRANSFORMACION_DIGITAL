@@ -11,7 +11,7 @@
       .col-lg-4.col-md-8.col-8.mb-3
         img.img-a.img-t(src="@/assets/curso/img/img10.png" alt="tema2")
       .col-lg-8.col-md-12.col-12.mb-3
-        p.mb-3 En la vida cotidiana de un hogar promedio actual, podría ocurrir fácilmente que un niño de escuela, mientras hace sus tareas, pregunte en voz alta: "¿Cuántos departamentos tiene Colombia?". El padre, quien tradicionalmente debería saber la respuesta, recuerda que son 33 departamentos. Sin embargo, mientras se asegura de su respuesta, el dispositivo electrónico Alexa interrumpe primero, proporcionando la respuesta correcta de 32 departamentos .
+        p.mb-3 En la vida cotidiana de un hogar promedio actual, podría ocurrir fácilmente que un niño de escuela, mientras hace sus tareas, pregunte en voz alta: "¿Cuántos departamentos tiene Colombia?". El padre, quien tradicionalmente debería saber la respuesta, recuerda que son 33 departamentos. Sin embargo, mientras se asegura de su respuesta, el dispositivo electrónico Alexa interrumpe primero, proporcionando la respuesta correcta de 32 departamentos.
         .cajac.p-4.mb-2
           .col-lg-7
           .row.d-flex.align-items-center.justify-content-center
@@ -90,7 +90,7 @@
               img.img-a.img-t.d-none.d-lg-block(data-aos="zoom-in")(src='@/assets/curso/img/nueva1.svg', alt='tema2')
             .col-lg-10 #[b Nota importante.] Todas estas tareas podrían encontrar solución eficiente en la selección de soluciones de #[em machine learning,] cuya aplicación resulte apropiada, la elección del algoritmo más adecuado, el ajuste de los parámetros del método elegido, el análisis de los resultados, la identificación de comportamientos incorrectos, la vuelta a procesos anteriores con el fin de cambiar lo que resulte necesario para mejorar los resultados. (Bobadilla, 2020).
     
-    p.mb-5 Si bien la aplicación de #[em Business Intelligence] (BI) es una manera interesante para el conocimiento de las organizaciones y otras bondades, la implementación de ML es ir más allá. Preste atención a los aspectos clave que se muestran a continuación:
+    p.mb-5 Si bien la aplicación de #[em Business Intelligence] (BI) es una manera interesante para el conocimiento de las organizaciones y otras bondades, la implementación de ML es ir más allá. Preste atención a los aspectos clave que se presentan a continuación:
     
     .row(data-aos="zoom-in")
       .col-lg-7.mb-0
@@ -289,14 +289,14 @@
         .row.justify-content-center.p-4
           .col-lg-6.col-12.my-3
             h4.mb-4 Resultado de una acción
-            p.mb-3 La predicción no es un asunto nuevo; en su mínima expresión se podría resumir en el resultado de una acción, es decir, no se necesita ser gurú para saber que si no se realizan ventas, el negocio se viene a pique, sin embargo, la IA es mucho más que esto y se responsabiliza de elementos más complejos.
+            p.mb-3 La predicción no es un asunto nuevo; en su mínima expresión se podría resumir en el resultado de una acción, es decir, no se necesita ser gurú para saber que, si no se realizan ventas, el negocio se viene a pique, sin embargo, la IA es mucho más que esto y se responsabiliza de elementos más complejos.
           .col-lg-6.col-12 
             img(alt="tema1" src="@/assets/curso/img/img10.svg")
 
         .row.justify-content-center.p-4
           .col-lg-6.col-12.my-3
             h4.mb-4 Análisis predictivo
-            p.mb-3 El objetivo de este análisis es la estimación de eventos futuros a partir de datos históricos o, incluso, descubrir fenómenos presentes que podrían desencadenar consecuencias más adelante, como por ejemplo, la no satisfacción de clientes.
+            p.mb-3 El objetivo de este análisis es la estimación de eventos futuros a partir de datos históricos o, incluso, descubrir fenómenos presentes que podrían desencadenar consecuencias más adelante, como, por ejemplo, la no satisfacción de clientes.
           .col-lg-6.col-12 
             img(alt="tema1" src="@/assets/curso/img/img11.svg")
 
