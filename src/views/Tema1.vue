@@ -29,7 +29,7 @@
         .row.justify-content-center.p-4
           .col-lg-6.col-12.my-3
             h4.mb-4 Manejo integral
-            p.mb-3 Cada área, puede manejar su sistema de información por aparte, sin tener en cuenta integraciones o calidad de la información, generando muchísimos datos, pero sin explotar de manera óptima su riqueza escondida, la cual pudiera tener si se gestiona de manera integral y usando técnicas y tecnologías de la cuarta revolución industrial.
+            p.mb-3 Cada área puede manejar su sistema de información por aparte, sin tener en cuenta integraciones o calidad de la información, generando muchísimos datos, pero sin explotar de manera óptima su riqueza escondida, la cual pudiera tener si se gestiona de manera integral y usando técnicas y tecnologías de la cuarta revolución industrial.
           .col-lg-6.col-12  
             img(alt="tema1" src="@/assets/curso/img/img2.svg")
 

@@ -39,7 +39,7 @@ export default {
       {
         nombreRuta: 'tema2',
         numero: '2',
-        titulo: 'Aprendizaje automático <em>machine learning</em>',
+        titulo: 'Aprendizaje automático (<em>machine learning</em>)',
         desarrolloContenidos: true,
         subMenu: [
           {
@@ -151,7 +151,7 @@ export default {
     {
       tema: 'Gestión de datos masivos',
       referencia:
-        'The QA Testing Channel. (2017). Comandos SQL Básicos en Base de Datos.',
+        'Ecosistema de Recursos Educativos Digitales SENA. (2022, 29 noviembre). Comandos SQL.',
       tipo: 'Video ',
       link: 'https://youtu.be/Yc1-Rg2whNU',
     },
@@ -164,8 +164,9 @@ export default {
     },
     {
       tema: 'Gestión de datos masivos ',
-      referencia: 'Be Intellligence. Business intelligence',
-      tipo: 'video',
+      referencia:
+        'Be Intelligence. (2016, 8 julio). Qué es Business Intelligence.',
+      tipo: 'Video',
       link: 'https://youtu.be/Pmdps2kK_5M',
     },
   ],
@@ -178,7 +179,7 @@ export default {
     {
       termino: 'Aprendizaje Profundo',
       significado:
-        '<em>Deep Learning,</em> se refiere a los programas que emplean redes neuronales programadas para tener procesos de machine <em>learning</em> más avanzados y complejos.',
+        '<em>Deep Learning,</em> se refiere a los programas que emplean redes neuronales programadas para tener procesos de <em>machine learning</em> más avanzados y complejos.',
     },
     {
       termino: '<em>Chatbots</em>',
@@ -220,13 +221,13 @@ export default {
     },
     {
       referencia:
-        'Zambelli. R (2024). ¿Qué es el Machine Learning y cómo usarlo en la gestión industrial?.',
+        'Zambelli. R (2024). ¿Qué es el <em>Machine Learning</em> y cómo usarlo en la gestión industrial?.',
       link:
         'https://blog-es.checklistfacil.com/machine-learning/?utm_term=&utm_campaign=LATAM-ES-PAID-CF-GOOGLE-SEARCH-LM_NOVOS_LEADS-DSA-BLOG&utm_source=google&utm_medium=cpc&hsa_acc=6707140990&hsa_cam=21096577828&hsa_grp=160250856136&hsa_ad=693261475572&hsa_src=g&hsa_tgt=dsa-2284541207217&hsa_kw=&hsa_mt=&hsa_net=adwords&hsa_ver=3&gad_source=1&gclid=CjwKCAjwqMO0BhA8EiwAFTLgIAqb8LevzY8hmeCkm9H9GcC_TwoE49Fnr6dqoYkrvwRMnj4720jy7BoChYAQAvD_BwE',
     },
     {
       referencia:
-        'Curto Díaz, J. (2016). Introducción al business intelligence.',
+        'Curto Díaz, J. (2016). Introducción al <em>business intelligence</em>.',
       link:
         'https://cursos.yura.website/wp-content/uploads/2020/03/Introduccion_al_Business_Intelligence.pdf',
     },

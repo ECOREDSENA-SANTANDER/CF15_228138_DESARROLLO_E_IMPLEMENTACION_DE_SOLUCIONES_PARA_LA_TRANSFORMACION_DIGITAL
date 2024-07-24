@@ -5,7 +5,7 @@
     .titulo-principal.color-acento-botones
       .titulo-principal__numero
         span 2
-      h1 Aprendizaje automático #[em (machine learning)]
+      h1 Aprendizaje automático (#[em machine learning])
     
     .row.justify-content-center.align-items-center.mb-4(data-aos="fade-left")
       .col-lg-4.col-md-8.col-8.mb-3
@@ -203,7 +203,7 @@
           | Datos base para los algoritmos regresiones lineales
         img.img-a.img-t.mb-3(src="@/assets/curso/img/fig1.svg" alt="Figura 1. Muestra una dispersión de datos base utilizada para algoritmos de regresiones lineales. En el eje vertical se representa el precio, mientras que en el eje horizontal se representa la variable M2. Los puntos dispersos en el gráfico indican una relación entre estas dos variables, sugiriendo una tendencia general en la que a medida que ( M_2 \ aumenta, el precio también tiende a aumentar.")
         
-    p.mb-4 Luego, a partir de una la regresión lineal, se calcula la línea que abarca los valores y se establece con mejor exactitud el valor del inmueble.
+    p.mb-4 Luego, a partir de la regresión lineal, se calcula la línea que abarca los valores y se establece con mejor exactitud el valor del inmueble.
     p.mb-4 De esa manera, cuando una propiedad tiene ciertos metros cuadrados específicos, la salida que ofrece la máquina será un precio que coincida con la regresión lineal, como se expresa en la siguiente gráfica:
     
     .row.justify-content-center.mb-4
@@ -217,7 +217,7 @@
     
     .mb-4.d-flex
       .d-flex.flex-wrap.align-items-center.pe-4.bg-img-blue
-        h3.col.px-4.mb-0.text-white(data-aos="fade-right") #[em K-MEANS cluestering o K-media] de agrupamiento
+        h3.col.px-4.mb-0.text-white(data-aos="fade-right") #[em K-MEANS clustering o K-media] de agrupamiento
         img.clase3.col-lg.d-none.d-lg-flex(src='@/assets/curso/img/clase2.svg' data-aos="fade-left")
 
     p.mb-0 En el caso anterior, se tenían valores históricos, sin embargo, ¿qué tal si se presenta el caso de que los datos no están categorizados y no hay un historial?.

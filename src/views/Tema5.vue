@@ -14,7 +14,7 @@
             :style="{'background-image': `url(${require('@/assets/curso/img/img405.svg')})`}"
           )
           .bloque-texto-g__texto.p-5.mt-3.mb-3
-            p.mb-5 Los tableros estadísticos, también llamados cuadros de mandos o #[em dashboard], permiten mostrar información consolidad a alto nivel. Los dashboard son las maneras más populares en BI de presentar datos, debido a que permite la compresión de manera sencilla los hechos del negocio y las situaciones presentadas.<br><br>
+            p.mb-5 Los tableros estadísticos, también llamados cuadros de mandos o #[em dashboard], permiten mostrar información consolidad a alto nivel. Los #[em dashboards] son las maneras más populares en BI de presentar datos, debido a que permite la compresión de manera sencilla los hechos del negocio y las situaciones presentadas.<br><br>
             p.mb-4.rojo #[b Los tableros estadísticos se centran en diferentes aspectos, como:]
 
             
@@ -30,18 +30,18 @@
       .col-lg-3.col-sm-6.mb-5
         .caja1.p-4
           h4.mb-3 Crear diseños amigables
-          p.mb-3 Por lo general todas las herramientas permiten crear diseños muy atractivos visualmente y amigables para la navegación e interacción con los datos.
+          p.mb-3 Por lo general, todas las herramientas permiten crear diseños muy atractivos visualmente y amigables para la navegación e interacción con los datos.
       .col-lg-3.col-sm-6.mb-5
         .caja2.p-4
           h4.mb-3 Generar actualizaciones
-          p.mb-3 Por lo general estos recursos permiten actualizaciones de manera fácil incluyendo o quitando datos o elementos visuales según las necesidades y sugerencias de los clientes o líderes.
+          p.mb-3 Por lo general, estos recursos permiten actualizaciones de manera fácil, incluyendo o quitando datos o elementos visuales según las necesidades y sugerencias de los clientes o líderes.
     
     .mb-4.d-flex
-      .d-flex.flex-wrap.align-items-center.pe-4.bg-img-blue
+      .d-flex.flex-wrap.align-items-center.pe-3.bg-img-blue
         h3.col.px-4.mb-0.text-white(data-aos="fade-right") Tableros estadísticos como herramienta para monitorizar el negocio
         img.clase8.col-lg.d-none.d-lg-flex(src='@/assets/curso/img/clase2.svg' data-aos="fade-left")
     
-    p.mb-4 Un #[b #[em dashboard]], permite visualizar de manera ágil y actualizada los procesos de negocio, pues muestra información clave de fácil entendimiento, los #[em dashboard] modernos tienen un “#[em refresh] de datos” casi en tiempo real, lo que les permite a las personas del nivel de decisión o coordinación tener el negocio y sus procesos a la mano con el detalle que requiera, permitiendo tomar con más velocidad las decisiones diarias.
+    p.mb-4 Un #[b #[em dashboard]], permite visualizar de manera ágil y actualizada los procesos de negocio, pues muestra información clave de fácil entendimiento, los #[em dashboards] modernos tienen un “#[em refresh] de datos” casi en tiempo real, lo que les permite a las personas del nivel de decisión o coordinación tener el negocio y sus procesos a la mano con el detalle que requiera, permitiendo tomar con más velocidad las decisiones diarias.
     p.mb-4 #[b Los tableros de mando contienen los siguientes elementos:]
     
     .row.justify-content-center.mb-5
@@ -50,7 +50,7 @@
           ul.lista-ul--color
             li.d-flex.mb-0
               i.fas.fa-check
-              | Permiten empelar variedad de elementos (gráficos, tablas, alertas, mapas, etiquetas, etc.).
+              | Permiten emplear variedad de elementos (gráficos, tablas, alertas, mapas, etiquetas, etc.).
             li.d-flex.mb-0
               i.fas.fa-check
               | La interacción se aplica de manera integral a todos los elementos del tablero.
@@ -70,7 +70,7 @@
         h3.col.px-4.mb-0.text-white(data-aos="fade-right") Usuarios de los tableros de mando
         img.clase9.col-lg.d-none.d-lg-flex(src='@/assets/curso/img/clase2.svg' data-aos="fade-left")
     
-    p.mb-4 #[b El perfil de los usuarios que usan estos #[em dashboard] son, por lo general:]
+    p.mb-4 #[b El perfil de los usuarios que usan estos #[em dashboards] son, por lo general:]
     
     .row.justify-content-center.mb-5 
       .col-sm-12.col-lg-10
@@ -98,9 +98,9 @@
         img.mb-lg-0.mb-3(src="@/assets/curso/img/img105.svg" alt="tema2")
       .col-lg-7.col-md-12.col-12.mb-2
         .cajaa1.p-4.mb-4
-          p.mt-4 Los #[em dashboard] no son la única manera de ver resultados del negocio o visualizar los datos. Cada área del negocio podría generar sus propios reportes a partir del desarrollo de BI, incluso desde la propia data #[em warehouse] se puede suministrar a usuarios, datos filtrados según sus interesas particulares del negocio, para que ellos mismos puedan elaborar sus reportes con los datos del despliegue analítico, garantizando que las cifras, independiente del área coincidan entre ellas.
+          p.mt-4 Los #[em dashboards] no son la única manera de ver resultados del negocio o visualizar los datos. Cada área del negocio podría generar sus propios reportes a partir del desarrollo de BI, incluso desde la propia #[em data warehouse] se puede suministrar a usuarios, datos filtrados según sus interesas particulares del negocio, para que ellos mismos puedan elaborar sus reportes con los datos del despliegue analítico, garantizando que las cifras, independiente del área coincidan entre ellas.
     
-    p.mb-4 Lo anterior, dando respuesta a que las organizaciones y los usuarios, cada vez más, tienen más habilidades digitales y dominio de herramientas analíticas así no sean usuarios informáticos propiamente dicho.
+    p.mb-4 Lo anterior, dando respuesta a que las organizaciones y los usuarios, cada vez tienen más habilidades digitales y dominio de herramientas analíticas, así no sean usuarios informáticos propiamente dichos.
     p.mb-4 #[b En relación con los informes y resultados de visualización, tenga presente:]
     
     .tarjeta.tarjeta--azul.p-3
@@ -115,7 +115,7 @@
         .row.justify-content-center.p-4
           .col-lg-6.col-12.my-3
             h4.mb-4 Los informes
-            p.mb-3 Hablando propiamente de informes, es un paso más allá de lo que son los reportes analíticos. Las tendencias de estos informes son, incorporar mayores capacidades visuales, proporcionando mayor libertad a los responsables de área o procesos para la creación y consumo para incluir en los informes ampliados estos recursos en archivos PDF, o presentaciones Power Point o similares.
+            p.mb-3 Hablando propiamente de informes, es un paso más allá de lo que son los reportes analíticos. Las tendencias de estos informes son, incorporar mayores capacidades visuales, proporcionando mayor libertad a los responsables de área o procesos para la creación y consumo para incluir en los informes ampliados estos recursos en archivos PDF, o presentaciones PowerPoint o similares.
           .col-lg-6.col-12
             img(alt="tema1" src="@/assets/curso/img/img115.svg")
 
