@@ -21,7 +21,7 @@
       .col-lg-12(data-aos="fade-left")
         figure
           .video
-            iframe(width="560" height="315" src="https://www.youtube.com/embed/y1yZU2D6MEg?si=tWT6SUbHZV6wO6er" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen)
+            iframe(width="560" height="315" src="https://www.youtube.com/embed/LuTpQ44F2xY?si=pDRS3I_Fno2kWIKD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen)
           figcaption Video. Introducción Analítica de datos y visualización
 
       
