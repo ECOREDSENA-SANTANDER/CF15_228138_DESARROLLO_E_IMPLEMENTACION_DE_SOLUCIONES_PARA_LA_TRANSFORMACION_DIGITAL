@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="54.97" height="54.34" viewBox="0 0 54.97 54.34">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectángulo_374574" data-name="Rectángulo 374574" width="54.97" height="54.34" fill="none"/>
+    </clipPath>
+  </defs>
+  <g id="Grupo_1070564" data-name="Grupo 1070564" transform="translate(0 0)">
+    <g id="Grupo_1070563" data-name="Grupo 1070563" transform="translate(0 0)" clip-path="url(#clip-path)">
+      <path id="Trazado_817407" data-name="Trazado 817407" d="M53.8,0H1.168A1.182,1.182,0,0,0,0,1.154V53.186A1.182,1.182,0,0,0,1.168,54.34H53.8a1.182,1.182,0,0,0,1.168-1.154V1.154A1.182,1.182,0,0,0,53.8,0M2.335,2.309H52.724V9.057H2.335Zm0,49.723V48.657H40.149a1.154,1.154,0,1,0,0-2.309H2.335V11.365H52.724V52.12Z" transform="translate(0 0)"/>
+      <path id="Trazado_817408" data-name="Trazado 817408" d="M51.6,5.1H42.44a1.154,1.154,0,1,0,0,2.309h9.071A1.183,1.183,0,0,0,52.68,6.254,1.106,1.106,0,0,0,51.6,5.1" transform="translate(-4.626 -0.571)"/>
+      <rect id="Rectángulo_374571" data-name="Rectángulo 374571" width="2.246" height="2.22" transform="translate(6.916 4.528)"/>
+      <rect id="Rectángulo_374572" data-name="Rectángulo 374572" width="2.245" height="2.22" transform="translate(13.742 4.528)"/>
+      <rect id="Rectángulo_374573" data-name="Rectángulo 374573" width="2.245" height="2.22" transform="translate(20.659 4.528)"/>
+      <path id="Trazado_817409" data-name="Trazado 817409" d="M22.774,23.258a1.147,1.147,0,0,0-1.616,0L12,32.315a1.116,1.116,0,0,0,0,1.6l9.162,9.057a1.147,1.147,0,0,0,1.616,0,1.117,1.117,0,0,0,0-1.6L14.42,33.114l8.353-8.258a1.116,1.116,0,0,0,0-1.6" transform="translate(-1.307 -2.569)"/>
+      <path id="Trazado_817410" data-name="Trazado 817410" d="M39.306,23.258a1.147,1.147,0,0,0-1.616,0,1.116,1.116,0,0,0,0,1.6l8.353,8.258L37.69,41.37a1.117,1.117,0,0,0,0,1.6,1.147,1.147,0,0,0,1.616,0l9.161-9.057a1.116,1.116,0,0,0,0-1.6Z" transform="translate(-4.187 -2.569)"/>
+    </g>
+  </g>
+</svg>
